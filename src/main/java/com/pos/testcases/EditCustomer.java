@@ -10,6 +10,7 @@ public class EditCustomer extends ProjectSpecificMethods{
 	
 	@BeforeTest
 	public void setValues() {
+
 		testcaseName = "EditCustomer";
 		testDescription ="Verify The New customer name has updated";
 		authors="Iswarya";
