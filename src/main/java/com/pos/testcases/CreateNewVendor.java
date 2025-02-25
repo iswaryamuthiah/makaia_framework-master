@@ -12,7 +12,7 @@ public class CreateNewVendor extends ProjectSpecificMethods{
 	public void setValues() {
 		testcaseName = "CreateNewVendors";
 		testDescription ="Verify The New vendor has created";
-		authors="Hari";
+		authors="Iswarya";
 		category ="Smoke";
 		excelFileName="NewVendors";
 	}

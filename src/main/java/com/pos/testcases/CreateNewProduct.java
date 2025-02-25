@@ -12,7 +12,7 @@ public class CreateNewProduct extends ProjectSpecificMethods{
 	public void setValues() {
 		testcaseName = "CreateNewProduct";
 		testDescription ="Verify The New product has created";
-		authors="Hari";
+		authors="Iswarya";
 		category ="Smoke";
 		excelFileName="NewProduct";
 	}
