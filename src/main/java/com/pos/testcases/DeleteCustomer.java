@@ -11,8 +11,8 @@ public class DeleteCustomer extends ProjectSpecificMethods{
 	@BeforeTest
 	public void setValues() {
 		testcaseName = "DeleteCutomer";
-		testDescription ="Customer deleted successfully";
-		authors="Hari";
+		testDescription ="Customer has been deleted successfully";
+		authors="Iswarya";
 		category ="Smoke";
 		excelFileName="DeleteCustomer";
 	}
