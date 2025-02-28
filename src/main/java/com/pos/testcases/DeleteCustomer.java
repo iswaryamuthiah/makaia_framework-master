@@ -12,7 +12,7 @@ public class DeleteCustomer extends ProjectSpecificMethods{
 	public void setValues() {
 		testcaseName = "DeleteCutomer";
 		testDescription ="Customer has been deleted successfully";
-		authors="Iswarya";
+		authors="IswaryaMuthiah";
 		category ="Smoke";
 		excelFileName="DeleteCustomer";
 	}
